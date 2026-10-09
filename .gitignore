@@ -1,0 +1,29 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+.qsys_edit/
+*.qws
+*.rpt
+*.summary
+*.smsg
+
+# Temporary files and editor backups
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# Local programming logs
+openocd-debug.log
+program-debug.log
